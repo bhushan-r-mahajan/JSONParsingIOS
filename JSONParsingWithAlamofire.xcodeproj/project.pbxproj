@@ -56,6 +56,10 @@
 		D480F01426BD5E21004D94B9 /* JSONParsingWithAlamofire */ = {
 			isa = PBXGroup;
 			children = (
+				D480F02C26BD5E5B004D94B9 /* Controller */,
+				D480F02B26BD5E4A004D94B9 /* ViewModel */,
+				D480F02A26BD5E3E004D94B9 /* Model */,
+				D480F02926BD5E36004D94B9 /* View */,
 				D480F01526BD5E21004D94B9 /* AppDelegate.swift */,
 				D480F01726BD5E21004D94B9 /* SceneDelegate.swift */,
 				D480F01926BD5E21004D94B9 /* ViewController.swift */,
@@ -65,6 +69,34 @@
 				D480F02326BD5E27004D94B9 /* Info.plist */,
 			);
 			path = JSONParsingWithAlamofire;
+			sourceTree = "<group>";
+		};
+		D480F02926BD5E36004D94B9 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		D480F02A26BD5E3E004D94B9 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		D480F02B26BD5E4A004D94B9 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		D480F02C26BD5E5B004D94B9 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
